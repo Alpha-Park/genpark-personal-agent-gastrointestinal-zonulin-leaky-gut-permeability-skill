@@ -1,0 +1,7 @@
+{
+  "engine": "genpark-mcp-kernel-v1",
+  "skill_id": 333,
+  "skill_name": "genpark-personal-agent-gastrointestinal-zonulin-leaky-gut-permeability-skill",
+  "vendor": "GenPark AI",
+  "endpoint": "https://www.genpark.ai/api/v1/skills"
+}
