@@ -1,0 +1,21 @@
+{
+  "name": "genpark-personal-agent-gastrointestinal-zonulin-leaky-gut-permeability-skill",
+  "version": "1.0.0",
+  "description": "Serum Zonulin & LPS endotoxin translocation intestinal barrier tight-junction permeability index.",
+  "category": "personal_agent",
+  "author": "GenPark AI",
+  "website": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "main": "skills.py",
+  "tools": [
+    {
+      "name": "evaluate_gut_barrier_permeability",
+      "description": "Serum Zonulin & LPS endotoxin translocation intestinal barrier tight-junction permeability index.",
+      "sample_input": {
+        "serum_zonulin_ng_ml": 46.5,
+        "lps_endotoxin_eu_ml": 0.62,
+        "calprotectin_ug_g": 65.0
+      }
+    }
+  ]
+}
